@@ -38,7 +38,7 @@ Through this exercise, we have recommended that our company add the Berkshire Ha
 The first reason is due to their Sharpe Ratio.  As visualized in the image below, the BH Fund had a higher Sharpe Ratio than all other funds,  
 including the S&P 500  
 
-![Sharpe_Ratio](Images/Sharpe Ratio.png)
+![Sharpe_Ratio](Images/SharpeRatio.png)
 
 Additionally when we look at the 60 Rolling beta for BH vs the S&P 500 we see a lower variance, which means it is more likely to follow  
 the same path as the S&P 500, which helps to mitigate the risk.
